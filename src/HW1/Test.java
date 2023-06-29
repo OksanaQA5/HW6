@@ -1,3 +1,5 @@
+package HW1;
+
 public class Test {
     public static void main(String[] args) {
         System.out.println("Text for output");
@@ -11,7 +13,6 @@ public class Test {
         System.out.println(a * b);
         System.out.println(b / a);
         System.out.println(b % a);
-
 
     }
         }
