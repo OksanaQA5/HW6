@@ -8,7 +8,7 @@ public class Random {
     public static void main(String[] args) {
            int[] array = new int[10];
         for (int i = 0; i < array.length; i++) {
-            array[i] = (int) (Math.random() * 100); // Генерируем случайное число от 0 до 99
+            array[i] = (int) (Math.random() * 100); 
         }
 
        System.out.println("Массив:");
